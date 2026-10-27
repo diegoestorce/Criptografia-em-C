@@ -119,15 +119,6 @@ Foram usados SHIFT = 3, PA com a₁=1 e r=2, PG com a₁=1 e q=2. As métricas s
 
 Conclusão sugerida: a matemática aplicada aumenta a variação entre as letras e elimina padrões de repetição simples, mas não transforma a cifra em um sistema seguro. Criptografia real usa algoritmos como AES, com chaves grandes e análise formal.
 
-## 8. Mapeamento na Taxonomia de Bloom
 
-| Nível | Ação no projeto | Onde aparece |
-|-------|-----------------|--------------|
-| Lembrar | Alfabeto, ASCII e progressões | `processar()` usa `'a'` e a aritmética ASCII; fórmulas na seção 4 |
-| Compreender | Efeito do SHIFT e da criptografia | Passo a passo exibido na opção 1 |
-| Aplicar | Implementar substituição e progressões | `gerar_sequencia()` e `processar()` |
-| Analisar | Comparar PA, PG, Fibonacci e primos | Opção 3 do menu e seção 6 |
-| Avaliar | Julgar qual sequência é mais forte | Seção 7 |
-| Criar | Sistema completo e personalizável | Menu, parâmetros livres, log e arquivo de saída |
 
-## 9. Estrutura do repositório
+
